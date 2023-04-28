@@ -95,15 +95,14 @@ li{
 .contato{
 	font-size: 22px;
 	text-align: center
-	background-color: #1d80c1;
 }
 
-.para-contato{
+.para-contato {
 	color: #ffffff;
 	background-color: #1d1d1d;
 	padding: 15px;
 	margin-top: 30px
-	width: 700px;
+	
 }
 .para-contato span{
 	color: #fff81b;
