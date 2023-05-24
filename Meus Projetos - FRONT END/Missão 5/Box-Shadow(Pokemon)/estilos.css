@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+}
+
+html, body{
+    height: 100%;
+}
+
+.CabecalhoRodape{
+    text-align: center;
+    background-color: rgb(223, 128, 19);
+    color: White;
+    padding: 10px 0px;
+}
+
+.capa{
+    width: 100vw;
+    box-sizing: border-box;
+}
+
+.galeriafotos{
+    display: inline;
+    max-width: 45px;
+    max-height: 60px;
+}
